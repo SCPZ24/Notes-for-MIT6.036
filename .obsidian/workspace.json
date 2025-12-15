@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "3c020f81e5326926",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c5d03ad6b87cea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff6ca5a1b19934c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limit Theorems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limit Theorems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2aeff60a71a963d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c18eecae27ec0d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51b93c05ee7c0879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b489f59ffdd3f3a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb11c747e919c415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0beac248de7e734f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c9cf1ab0233e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1436ba567799830f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basics"
+            }
+          },
+          {
+            "id": "6c48f083972a12f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basics"
+            }
+          },
+          {
+            "id": "4a6d0d8f953ec3a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "398afffe470a4a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ff6ca5a1b19934c",
+  "lastOpenFiles": [
+    "Bernoulli Process.md",
+    "Continuous Probability Distribution.md",
+    "Markov Process.md",
+    "Poisson Process.md",
+    "Bayesian Statistical Inference.md",
+    "Limit Theorems.md",
+    "Hugging Face.md",
+    "Probability Distribution.md",
+    "Classical Statistical Inference.md",
+    "Linear Regression.md",
+    "Images/截屏2025-10-07 13.08.45.png",
+    "Images/截屏2025-10-07 14.06.24.png",
+    "Images/截屏2025-10-07 13.40.36.png",
+    "Images/截屏2025-10-07 13.29.04.png",
+    "Counting.md",
+    "Basics.md",
+    "Images/截屏2025-10-02 22.12.38.png",
+    "Images/截屏2025-10-02 03.41.49.png",
+    "Images/截屏2025-10-02 03.45.19.png",
+    "Images/截屏2025-10-02 02.59.28.png",
+    "Images/截屏2025-10-02 03.13.18.png",
+    "Images/截屏2025-10-02 03.07.07.png",
+    "Images",
+    "desktop.ini"
+  ]
+}
